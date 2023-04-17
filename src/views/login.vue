@@ -4,7 +4,10 @@
 
 <template>
     <div class="login-back">
-        <div class="form"></div>
+        <div class="form">
+            <h2 style="color: #000;text-align: center;">登录</h2>
+            <input type="text">
+        </div>
     </div>
 </template>
 
