@@ -4,12 +4,12 @@
 
 <template>
     <div class="login-back">
-
+        <div class="form"></div>
     </div>
 </template>
 
 <style scoped>
-.login-back{
+.login-back {
     width: 100%;
     height: 100%;
     background-image: url('../assets/login-back.jpg');
@@ -18,5 +18,14 @@
     position: fixed;
     top: 0;
     left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form {
+    width: 500px;
+    height: 350px;
+    background-color: #fff;
 }
 </style>
