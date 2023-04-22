@@ -4,10 +4,8 @@ import header from '../components/layout/header.vue'
 </script>
 
 <template>
-  home
-  <header/>
+  home1212
+  <header />
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
