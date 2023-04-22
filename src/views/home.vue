@@ -4,6 +4,7 @@ import { RouterView } from 'vue-router';
 </script>
 
 <template>
+<<<<<<< HEAD
   <div>
     <layoutHeadert/>
     <div class="home-body">
@@ -21,3 +22,10 @@ import { RouterView } from 'vue-router';
   left: 0;
 }
 </style>
+=======
+  home1212
+  <header />
+</template>
+
+<style scoped></style>
+>>>>>>> 58207f5c3d4e3108f91391f398abda4d4ffbac78
