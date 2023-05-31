@@ -1,61 +1,7 @@
-# rent-house
+# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-pnpm test:unit
-```
-
-### Wish well
-
-```sh
-                             _ooOoo_
-                            o8888888o
-                            88" . "88
-                            (| -_- |)
-                             O\ = /O
-                         ____/`---'\____
-                       .   ' \\| |// `.
-                        / \\||| : |||// \
-                     / _||||| -卍- |||||- \
-                        | | \\\ - /// | |
-                      | \_| ''\---/'' | |
-                       \ .-\__ `-` ___/-. /
-                    ___`. .' /--.--\ `. . __
-                 ."" '< `.___\_<|>_/___.' >'"".
-                | | : `- \`.;`\ _ /`;.`/ - ` : | |
-                  \ \ `-. \_ __\ /__ _/ .-` / /
-          ======`-.____`-.___\_____/___.-`____.-'======
-                             `=---='
- 
-          .............................................
-                   佛祖镇楼                  BUG辟易 
- ```
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).

@@ -5463,7 +5463,6 @@ const setBackupStrokeWidth = (xml) => {
   }
   const DomToXml = new XMLSerializer();
   const svgDomXml = DomToXml.serializeToString(svgDom);
-  console.log('svgDomXml',svgDomXml);
   return svgDomXml
 }
 
